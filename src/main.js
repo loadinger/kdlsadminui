@@ -3,6 +3,9 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import kdlsadminui from './components/kdlsadminui.js'
+Vue.use(kdlsadminui)
+
 Vue.config.productionTip = false
 
 new Vue({

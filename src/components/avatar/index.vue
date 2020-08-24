@@ -7,6 +7,7 @@
 <script>
   import './index.styl'
   export default {
+    name: 'cAvatar',
     props: ['src'],
   }
 </script>

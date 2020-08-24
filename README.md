@@ -27,6 +27,14 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * stylus: 0.54.8+
 * stylus-loader: 3.0.2+
 
+## Usage
+### global
+* main.js
+* import kdlsadminui from '@/components/kdlsadminui.js'
+* Vue.use(kdlsadminui)
+### component
+* import cAvatar from '@/components/avatar/index.vue'
+
 ## Features
 ### Done
 * avatar
