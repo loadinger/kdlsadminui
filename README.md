@@ -34,3 +34,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Future
 * avatar upload
+
+
+## License
+* GPL
